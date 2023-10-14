@@ -20,7 +20,7 @@ dependencies:
   persian_fonts: ^1.0.5
 ```
 
-![screen app](https://www.uplooder.net/img/image/16/2d8531cc7b37e594ef1ddc7b6aea0309/file-cover---1.jpg)
+![screen app](https://www.uplooder.net/img/image/26/7b895cf3e18e73af67da8a4cb1459a7c/file.jpg)
 
 
 
