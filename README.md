@@ -14,9 +14,6 @@ Used packages:
 dependencies:
   cupertino_icons: ^1.0.6
   custom_clippers: ^2.0.0
-  flutter:
-    sdk: flutter
- 
   flutter_svg: ^2.0.7
   font_awesome_flutter: ^10.5.0
   get: ^4.6.6
