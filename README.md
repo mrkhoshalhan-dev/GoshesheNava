@@ -19,3 +19,9 @@ dependencies:
   get: ^4.6.6
   persian_fonts: ^1.0.5
 ```
+
+
+
+
+
+:+1: This PR looks great - it's ready to merge! :shipit:
